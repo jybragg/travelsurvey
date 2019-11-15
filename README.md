@@ -1,9 +1,9 @@
 # Travel Survey
 
-## Description
+### Description
 
 A web app that surveys the user about their travel preferences.
 
-## Technologies used:
+### Technologies used:
 
 This will be a MERN Stack application
