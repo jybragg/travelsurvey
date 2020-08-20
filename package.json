@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "axios": "^0.18.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "common-tags": "^1.8.0",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
